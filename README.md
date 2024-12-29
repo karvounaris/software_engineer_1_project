@@ -56,9 +56,9 @@ This repository contains two distinct projects completed as part of the Software
 ---
 
 ## 🤝 Contributors
-- Panagiotis Karvounaris
-- Panagiotis Sitaridis
-- Anna Tsitsanou
+- [Panagiotis Karvounaris](https://github.com/karvounaris)
+- [Panagiotis Sitaridis](https://github.com/psitarid)
+- [Anna Tsitsanou](https://github.com/annatsitsanou)
 - Elena Mahmutaj
 
 ---
